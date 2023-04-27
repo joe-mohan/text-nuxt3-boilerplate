@@ -1,0 +1,1 @@
+import{q as t,p as s,s as a,a as o,o as l}from"./entry.e8dc42c1.js";const n={},r=o("p",null,"layouts/default.vue",-1);function c(e,d){return l(),s("div",null,[r,a(e.$slots,"default")])}const _=t(n,[["render",c]]);export{_ as default};

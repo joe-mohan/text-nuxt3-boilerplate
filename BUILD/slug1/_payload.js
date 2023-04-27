@@ -1,0 +1,1 @@
+export default (function(a){return {data:{"/slug1":{attributes:{id:a,title:"Slug Page 1",slug:"slug1",createdAt:"2023-04-24T08:09:37.085Z",updatedAt:"2023-04-27T11:15:02.508Z",publishedAt:"2023-04-24T08:09:43.097Z",sections:[{__component:"sections.text-block",id:a,content:"Slug 1 \u002Fslug1"}]}}},prerenderedAt:1682594173047}}(2))
