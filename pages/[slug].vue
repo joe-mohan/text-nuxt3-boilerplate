@@ -4,7 +4,7 @@ const slug = route.params.slug;
 const { data } = await useFetch(
   `http://localhost:1337/api/pages/${slug}`, /** your API endpoint **/
   {
-    immediate: process.env.prerender,
+    immediate: process.dev || process.env.prerender,
     key: route.path,
   }
 );
